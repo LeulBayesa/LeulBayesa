@@ -3,8 +3,8 @@ I’m Leul Bayesa from Ethiopia, and I’m a Software Engineering Student at Add
 -🌱 I’m currently learning Software Engineering at Addis Ababa University(AAiT)
 
 ## Skills and Exprience
-* Python
-* Java
+* 💻 Python
+* 🖥️ Java
 * 💻 HTML,CSS & JS
 
  
