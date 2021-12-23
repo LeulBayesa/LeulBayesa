@@ -1,6 +1,6 @@
 # Leul Bayesa
 I’m Leul Bayesa from Ethiopia, and I'm a college student, I really enjoy learning Web developments(HTML, JS, CSS) & languages like python, java...
--🌱 I’m currently learning Software Engineering at Addis Ababa University
+-🌱 I’m currently learning Software Engineering at Addis Ababa University(AAiT)
 
 ## Skills and Exprience
 * Python
