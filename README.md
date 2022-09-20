@@ -1,14 +1,6 @@
-# Leul Bayesa
-I’m Leul Bayesa from Ethiopia, and I’m a Software Engineering Student at Addis Ababa University(AAiT), I really enjoy learning Web developments(HTML, JS, CSS) & languages like python, java, C++...
--🌱 I’m currently learning Software Engineering at Addis Ababa University(AAiT)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-## Skills and Exprience
-* 💻 Python
-* 🖥️ Java
-* 💻 HTML,CSS & JS
-
- 
+My name is Leul Bayesa. I am a software engineering student at Addis Ababa Institute of Technology (AAiT). I am interested in using technology to solve real-world challenges and provide strong leadership.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LeulBayesa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/prin_ce_le_ul/)  
 
