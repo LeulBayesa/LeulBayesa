@@ -7,13 +7,14 @@ My name is Leul Bayesa. I am a software engineering student at Addis Ababa Insti
 
 <div align="center">
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt ="Python" width ="25"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt ="Java" width ="25"/> 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt ="JavaScript" width ="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt ="HTML" width ="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt ="CSS" width ="25"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt ="git" width ="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt ="xd" width ="25"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt ="Python" width ="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt ="Java" width ="25"/> 
   <h2>&nbsp;</h2>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
