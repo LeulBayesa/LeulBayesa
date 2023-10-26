@@ -5,9 +5,10 @@ Hey there 👋
   
 My name is Leul Bayesa. I am a software engineering student at Addis Ababa Institute of Technology (AAiT). I am interested in using technology to solve real-world challenges and provide strong leadership.
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=F731BE&random=false&width=450&lines=%22Programming+is+the+art+of+turning+ideas;+into+reality+through+lines+of+code%22" alt="Typing SVG" /></a>
+
 <div align="center">
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=F731BE&random=false&width=450&lines=%22Programming+is+the+art+of+turning+ideas;+into+reality+through+lines+of+code%22" alt="Typing SVG" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt ="JavaScript" width ="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt ="HTML" width ="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt ="CSS" width ="25"/> 
