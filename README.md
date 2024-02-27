@@ -17,7 +17,7 @@ My name is Leul Bayesa. I am a software engineering student at Addis Ababa Insti
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt ="Python" width ="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt ="Java" width ="25"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt ="react" width ="25"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt ="nodejs" width ="25"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt ="nodejs" width ="25"/> 
   <h2>&nbsp;</h2>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
