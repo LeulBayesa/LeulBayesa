@@ -2,8 +2,8 @@
 <img src = "https://github.com/LeulBayesa/LeulBayesa/blob/main/Codings.gif"/>
 
 Hey there 👋
-  
-My name is Leul Bayesa. I am a software engineering student at Addis Ababa Institute of Technology (AAiT). I am interested in using technology to solve real-world challenges and provide strong leadership.
+
+My name is Leul Bayesa. I am a software engineering graduate from the College of Technology and Built Environment (CTBE), formerly known as Addis Ababa Institute of Technology (AAiT). I’m passionate about using technology to solve real-world challenges and enjoy taking on leadership roles to drive projects forward.
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=F731BE&random=false&width=450&lines=%22Programming+is+the+art+of+turning+ideas;+into+reality+through+lines+of+code%22" alt="Typing SVG" /></a>
 
