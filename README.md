@@ -35,8 +35,6 @@ My name is Leul Bayesa. I am a software engineering graduate from the College of
 <h2>&nbsp;</h2>
 
 [<img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github' height='25'>](https://github.com/LeulBayesa)
-[<img src='https://img.icons8.com/fluency/48/000000/instagram-new.png' alt='instagram' height='25'>](https://www.instagram.com/prin_ce_le_ul/) 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt='twitter' height='25'>](https://www.twitter.com/Rare_Prince21/)
-
+[<img src='https://img.icons8.com/fluency/48/000000/instagram-new.png' alt='instagram' height='25'>](https://www.instagram.com/prin_ce_le_ul/)
 </div>
 
