@@ -26,9 +26,9 @@ My name is Leul Bayesa. I am a software engineering graduate from the College of
           
   <h2>&nbsp;</h2>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=LeulBayesa&show_icons=true&theme=radical&layout=compact" />
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeulBayesa&langs_count=8&theme=radical&layout=compact" />
 </a>
